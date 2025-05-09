@@ -11,7 +11,7 @@ I'm a cybersecurity enthusiast, Python developer, and tech explorer! I love work
 
 ## 🛠️ Tech Stack
 
-🔹 **Languages:** Python, HTML/CSS, SQL, LUA, Bash, Java
+🔹 **Languages:** Python, HTML/CSS/JS, SQL, LUA, Bash, Java, C
 🔹 **Security & DevOps:** (Kali) Linux, Docker, Raspberry Pi  
 
 ---
@@ -20,5 +20,6 @@ I'm a cybersecurity enthusiast, Python developer, and tech explorer! I love work
 
 🚀 **DumperBumper** - AI-powered illegal dumping detection system
 🎮 **Pyt - The Dino Bot** - A Discord bot for collecting dinosaurs
+🐼 **PANDA AI** - The AI assistant that helps you learn using your own courses
 
 🔒 My projects are currently private, but I might make some public in the future!
